@@ -2,7 +2,7 @@ package Chapter20;
 
 import java.util.List;
 
-import Chapter20.annotation.UseCase;
+import chapter20.annotation.UseCase;
 
 public class PasswordUtils {
 	@UseCase(id = 47, description = "abc")

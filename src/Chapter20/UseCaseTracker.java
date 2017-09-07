@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import Chapter20.annotation.UseCase;
+import chapter20.annotation.UseCase;
 
 public class UseCaseTracker {
 	public static void trackUseCases(List<Integer> useCases, Class<?> cl){
